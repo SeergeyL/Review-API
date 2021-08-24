@@ -1,0 +1,11 @@
+.git/*
+env/
+venv/
+
+__pycache__/
+*.py[cod]
+
+.idea
+
+db.sqlite3
+sqlite3.exe
